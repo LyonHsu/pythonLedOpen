@@ -1,4 +1,8 @@
 # pythonLedOpen
+=========20190527============================
+使用openRaspberryPi.py 作為開啟檔 來呼叫 LedTest.py & GetAddressIP.py
+GetAddressIP.py 可以獲取local ip 並使用espeak 唸出來
+
 
 =========20190523============================
 使用 espeak 執行 文字轉語音 tts 
